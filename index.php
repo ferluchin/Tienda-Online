@@ -190,10 +190,10 @@ $(document).ready(function() {
                     
                     <table class="table table-hover" >
                         <tr>
-                            <td cursor="pointer" align="center" data-target="#carousel-example-generic" data-slide-to="0"> PROMOCION 1</a></td>
+                            <td cursor="pointer" align="center" data-target="#carousel-example-generic" data-slide-to="0"> COMBO ORDENADOR</a></td>
                         </tr>
                         <tr>
-                            <td align="center"  data-target="#carousel-example-generic" data-slide-to="1"> PROMOCION 2</a></td>
+                            <td align="center"  data-target="#carousel-example-generic" data-slide-to="1"> COMBO LINTERNA 2</a></td>
                         </tr>
                         <tr>
                             <td align="center"  data-target="#carousel-example-generic" data-slide-to="2"> PROMOCION 3</a></td>
@@ -253,27 +253,45 @@ $(document).ready(function() {
                             <div class="carousel-inner">
                                 <div class="item active">
                                     <div class="row">
-                                      <div class="col-md-6"><center>Una columna</center></div>
-                                      <div class="col-md-6" align="center">otra columna<br><img src="../images/barcelona01.jpg" width="350" height="350"></div>
+                                      <div class="col-md-6" align="center">POR LA COMPRA DE <br><img src="img/Computer.png" width="350" height="350"></div>
+                                      <div class="col-md-6"><center>RECIBE GRATIS <br><img src="img/07.jpg" width="350" height="350"> </center></div>
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="text.png" alt="">
+                                    <div class="row">
+                                      <div class="col-md-6" align="center">POR LA COMPRA DE <br><img src="img/linterna.jpg" width="350" height="350"></div>
+                                      <div class="col-md-6"><center>RECIBE GRATIS <br><img src="img/PILAS.jpg" width="350" height="350"> </center></div>
+                                    </div>
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="text.png" alt="">
+                                    <div class="row">
+                                      <div class="col-md-6" align="center">POR LA COMPRA DE <br><img src="img/oferta1.jpg" width="350" height="350"></div>
+                                      <div class="col-md-6"><center>RECIBE GRATIS <br><img src="img/regalo1.jpg" width="350" height="350"> </center></div>
+                                    </div>
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="text.png" alt="">
+                                    <div class="row">
+                                      <div class="col-md-6" align="center">POR LA COMPRA DE <br><img src="img/oferta2.jpg" width="350" height="350"></div>
+                                      <div class="col-md-6"><center>RECIBE GRATIS <br><img src="img/regalo2.jpg" width="350" height="350"> </center></div>
+                                    </div>
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="text.png" alt="">
+                                    <div class="row">
+                                      <div class="col-md-6" align="center">POR LA COMPRA DE <br><img src="img/oferta3.jpg" width="350" height="350"></div>
+                                      <div class="col-md-6"><center>RECIBE GRATIS <br><img src="img/regalo3.jpg" width="350" height="350"> </center></div>
+                                    </div>
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="text.png" alt="">
+                                    <div class="row">
+                                      <div class="col-md-6" align="center">POR LA COMPRA DE <br><img src="img/oferta4.jpg" width="350" height="350"></div>
+                                      <div class="col-md-6"><center>RECIBE GRATIS <br><img src="img/regalo4.jpg" width="350" height="350"> </center></div>
+                                    </div>
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="text.png" alt="">
+                                    <div class="row">
+                                      <div class="col-md-6" align="center">POR LA COMPRA DE <br><img src="img/oferta5.jpg" width="350" height="350"></div>
+                                      <div class="col-md-6"><center>RECIBE GRATIS <br><img src="img/regalo5.jpg" width="350" height="350"> </center></div>
+                                    </div>
                                 </div>
                                 <div class="item">
                                     <img class="slide-image" src="text.png" alt="">
